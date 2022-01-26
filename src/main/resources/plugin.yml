@@ -3,3 +3,5 @@ version: '${project.version}'
 main: com.trilliumhq.multiplying.Multiplying
 api-version: 1.18
 authors: [ trilliumhq ]
+depend:
+  - LuckPerms
